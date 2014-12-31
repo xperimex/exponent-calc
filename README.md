@@ -1,4 +1,4 @@
 exponent-calc
 =============
 
-JS program that calculates exponents.
+Python program that calculates exponents.
